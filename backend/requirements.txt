@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-python-dotenv
-google-generativeai
-protobuf>=5.26.1
+google-genai
+pydantic
