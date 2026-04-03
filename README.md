@@ -5,8 +5,7 @@ A high-performance, full-stack application that translates complex code into pla
 ---
 
 ## 📺 Project Walkthrough
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-> **Note:** Click the image above to watch the video demonstration of the AI Explainer in action. (Replace `YOUR_VIDEO_ID` with your actual YouTube ID).
+
 
 ---
 
@@ -24,7 +23,7 @@ A high-performance, full-stack application that translates complex code into pla
 | :--- | :--- | :--- |
 | **Frontend** | [Streamlit](https://streamlit.io/) | User Interface & Input Handling |
 | **Backend** | [FastAPI](https://fastapi.tiangolo.com/) | API Logic & Key Management |
-| **AI Engine** | OpenAI / Anthropic / Gemini | Code Interpretation |
+| **AI Engine** |  Gemini | Code Interpretation |
 | **Communication** | REST API | JSON Data Exchange |
 
 ---
@@ -33,7 +32,7 @@ A high-performance, full-stack application that translates complex code into pla
 
 ### 1. Prerequisites
 * Python 3.9+
-* An API Key (OpenAI, Anthropic, or Gemini)
+* An API Key (Gemini)
 
 ### 2. Installation
 Clone the repository:
